@@ -1,19 +1,19 @@
 # CNN-Blood-Cell-Classification
 
-* This repository
+* This repository holds an application of Convolutional Neural Networks to classify blood cell types using a Blood Cell Image Dataset retrieved from Kaggle (https://www.kaggle.com/datasets/unclesamulus/blood-cells-image-dataset/data).
 
 ## Overview
 
-* T
+* IN PROGRESS
 
 ### Data Source
 
-* T
+* IN PROGRESS
 
 ### Models Utilized
 
-* T
+* IN PROGRESS
 
 ## Instructions for Running Notebook
 
-* T
+* IN PROGRESS
